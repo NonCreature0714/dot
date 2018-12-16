@@ -9,6 +9,9 @@
 
 D.O.T. (or dot) is my response to the bredth of tools out there for DevOps, configuration management, security, and troubleshooting. It is an abstraction on top of many other tools, and intelligently incorporates necessary packages by "unlocking" them when they are called. This means D.O.T. starts "locked," and must be unlocked... like a dungeon!
 
+## Who is this for?
+***Everyone!*** Everyone, that is, who is trying to practice DevOps. So this is for system administrators, developers, network engineers, configuration managers, Site Reliability Engineers... Really, it's for anyone who is trying to run their team with more efficiency.
+
 # How is this code organized?
 
 This is organized like so:
